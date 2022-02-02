@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: If you use this dataset in your work, please cite it using the following metadata
+title: User Centered Adaptive Streaming of Dynamic Point Clouds with Low Complexity Tiling
+authors:
+- family-names: Subramanyam
+  given-names: Shishir
+- family-names: Viola
+  given-names: Irene
+- family-names: Hanjalic
+  given-names: Alan
+- family-names: Cesar
+  given-names: Pablo
+- name: The Ruby Citation File Format Developers
+doi: 10.1145/3394171.3413535
